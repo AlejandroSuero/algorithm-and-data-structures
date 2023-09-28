@@ -4,9 +4,9 @@ Course about algorithms and data structures, tought by @ThePrimeagen (he works
 at Netflix btw) in the
 [FrontendMasters website](https://frontendmasters.com/courses/algorithms).
 
-<center>
+<p align="center">
   <img src="https://theprimeagen.github.io/fem-algos/images/TheStartup.jpeg" alt="ThePrimeagen, CEO of TheStartup™ TryHarder™" />
-</center>
+</p>
 
 > The course uses TypeScript to show the algorithms and data structures. Learn your types.
 
@@ -15,9 +15,9 @@ at Netflix btw) in the
 const a = [];
 ```
 
-<center>
+<p align="center">
     <img src="https://theprimeagen.github.io/fem-algos/images/morphius.jpg" alt="Morphius what if I told you meme, telling you that const a = []; is not an array" />
-</center>
+</p>
 
 Contents:
 
