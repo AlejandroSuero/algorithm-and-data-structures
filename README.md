@@ -4,17 +4,26 @@ Course about algorithms and data structures, tought by @ThePrimeagen (he works
 at Netflix btw) in the
 [FrontendMasters website](https://frontendmasters.com/courses/algorithms).
 
-The course uses TypeScript to show the algorithms and data structures.
+<center>
+  <img src="https://theprimeagen.github.io/fem-algos/images/TheStartup.jpeg" alt="ThePrimeagen, CEO of TheStartup™ TryHarder™" />
+</center>
+
+> The course uses TypeScript to show the algorithms and data structures. Learn your types.
 
 ```ts
 // Is this an array?
-const a = []; // not in JavaScript/TypeScript at least
+const a = [];
 ```
+
+<center>
+    <img src="https://theprimeagen.github.io/fem-algos/images/morphius.jpg" alt="Morphius what if I told you meme, telling you that const a = []; is not an array" />
+</center>
 
 Contents:
 
-- Big O complexity
-- Data Structures
+- [Big O complexity](#big-o-complexity)
+- [Data Structures](#data-structures)
+- [Algorithms](#algorithms)
 
 ## Big O complexity
 
